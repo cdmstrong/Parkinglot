@@ -7,7 +7,9 @@
   关注我，一个致力于人工智能方向的工作者
   <br/>
 </div>
+
 ![image](https://life-9gekhhx1136c3452-1302402275.tcloudbaseapp.com/resources/git.gif)
+
 # 项目说明
 
 ## 这是一个 基于物体检测制作的停车场管理模型
