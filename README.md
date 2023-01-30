@@ -1,14 +1,14 @@
 <div align="center">
   <p>
     <a align="center" href="https://ultralytics.com/yolov5" target="_blank">
-      <img width="850" src="https://life-9gekhhx1136c3452-1302402275.tcloudbaseapp.com/resources/git.gif"></a>
+      <img width="850" src="https://life-9gekhhx1136c3452-1302402275.tcloudbaseapp.com/resources/QQ截图20230130100303.png"></a>
   </p>
 
   关注我，一个致力于人工智能方向的工作者
   <br/>
 </div>
 
-![image](https://life-9gekhhx1136c3452-1302402275.tcloudbaseapp.com/resources/git.gif)
+![image](https://life-9gekhhx1136c3452-1302402275.tcloudbaseapp.com/resources/2023-01-30-09-35-38.gif)
 
 # 项目说明
 
