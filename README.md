@@ -32,8 +32,8 @@
 ## 建议使用google 云gpu 进行训练
 
 # 参考博客
-- 地址：(https://blog.csdn.net/monk96/article/details/128578734?spm=1001.2014.3001.5502)[https://blog.csdn.net/monk96/article/details/128578734?spm=1001.2014.3001.5502]
+- 地址：[https://blog.csdn.net/monk96/article/details/128578734?spm=1001.2014.3001.5502](https://blog.csdn.net/monk96/article/details/128578734?spm=1001.2014.3001.5502)
 
 # 参考项目源代码
 
-- yolov5(https://github.com/ultralytics/yolov5)[https://github.com/ultralytics/yolov5]
+- yolov5[https://github.com/ultralytics/yolov5](https://github.com/ultralytics/yolov5)
